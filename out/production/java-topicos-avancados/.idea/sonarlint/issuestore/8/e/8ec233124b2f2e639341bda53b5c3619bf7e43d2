@@ -1,0 +1,29 @@
+
+e
+java:S6208)"CMerge the previous cases into this one using comma-separated label.(ú¿–úÿÿÿÿ8—”–İ›1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "Fim de semana" 3 times.(í×Ïİùÿÿÿÿ8˜”–İ›1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "dia util" 6 times.(­ñØˆûÿÿÿÿ8˜”–İ›1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éô¾´8ÇÁÌÉ™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ß±8ÖÁÌÉ™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡ôİøÿÿÿÿ8ÚÁÌÉ™1
+_
+java:S1854%"=Remove this useless assignment to local variable "resultado".(‡Ã†Ôøÿÿÿÿ8¶”–İ›1
+_
+java:S1854'"=Remove this useless assignment to local variable "resultado".(‡Ã†Ôøÿÿÿÿ8·”–İ›1
+_
+java:S1854+"=Remove this useless assignment to local variable "resultado".(‡Ã†Ôøÿÿÿÿ8·”–İ›1
+_
+java:S1854*"=Remove this useless assignment to local variable "resultado".(‡Ã†Ôøÿÿÿÿ8·”–İ›1
+_
+java:S1854-"=Remove this useless assignment to local variable "resultado".(‡Ã†Ôøÿÿÿÿ8‡´–İ›1
+_
+java:S1854/"=Remove this useless assignment to local variable "resultado".(æÎØŠûÿÿÿÿ8·”–İ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ß±8ÜÁÌÉ™1
+m	java:S128."LEnd this switch case with an unconditional break, return or throw statement.(ƒ¸À¼ıÿÿÿÿ8º”–İ›1
+m	java:S128,"LEnd this switch case with an unconditional break, return or throw statement.(ğúÆ†ûÿÿÿÿ8º”–İ›1
+m	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(ú¿–úÿÿÿÿ8»”–İ›1
+h	java:S128&"LEnd this switch case with an unconditional break, return or throw statement.(à÷ß±8»”–İ›1
+g	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(õ°ÃG8‹´–İ›1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ú¡ôİøÿÿÿÿ8èÁÌÉ™1
